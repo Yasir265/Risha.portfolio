@@ -16,7 +16,7 @@ const HeroSection = () => {
           alt="Haute couture runway"
           width={1920}
           height={1080}
-          className="w-full h-full object-cover object-[center_70%]"
+          className="w-full h-full object-cover object-[center_20%]"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/30 to-background" />
       </motion.div>
